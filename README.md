@@ -1,2 +1,2 @@
-# Prog2
-Minden projekt a prog óráról
+# Programozás 2
+Minden projekt a PRogramozás 2 tantárgyból
